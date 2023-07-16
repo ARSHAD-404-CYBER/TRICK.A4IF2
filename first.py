@@ -334,7 +334,7 @@ def xxr():
 
             uid = code+love
 
-            for TRICK A4IF in HamiiID:
+            for in HamiiID:
 
                 pwx.append(TRICK A4IF)
 
